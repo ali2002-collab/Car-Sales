@@ -1,0 +1,4 @@
+ToolSet: w64 9.0 (local)@C:\Users\Ali Hassan\Documents\INTRODUCTION TO PROGRAMMING\bin\mingw
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=C:/Users/Ali Hassan/Documents/INTRODUCTION TO PROGRAMMING/bin/ninja/win/x64/ninja.exe

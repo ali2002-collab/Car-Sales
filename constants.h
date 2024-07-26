@@ -1,0 +1,7 @@
+#define MAXIMUM_AGE 40
+#define MINIMUM_AGE 20
+#define DISCOUNT_PERCENTAGE 0.20
+#define VIEW_STOCK 1
+#define BUY_CARS 2
+#define SALES_STATS 3
+#define OPTION_EXIT 4
